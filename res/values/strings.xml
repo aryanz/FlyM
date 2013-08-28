@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlyM</string>
+    <string name="title_activity_index">FlyM</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_exit">Exit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="fullname">Full Name</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="newUser">New User ? SignUp for Free Account</string>
+    <string name="clear">Clear</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="please_wait">Please Wait ..</string>
+    <string name="title_activity_message_editor">MessageEditorActivity</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_friend">Add Friend</string>
+
+</resources>
