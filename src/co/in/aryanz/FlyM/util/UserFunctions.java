@@ -21,17 +21,11 @@ public class UserFunctions {
 	
     // Testing in localhost using wamp or xampp 
     // use http://10.0.2.2/ to connect to your localhost ie http://localhost/
-	
-	private static String loginURL = "http://www.aryanz.co.in/FlyMWS/";
-	private static String registerURL = "http://www.aryanz.co.in/FlyMWS/";
-	private static String usersDetailsURL = "http://www.aryanz.co.in/FlyMWS/users.php";
-	private static String friendsURL = "http://www.aryanz.co.in/FlyMWS/friends.php";
-	
-	
-/*	private static String loginURL = "http://192.168.131.1/aryanz/FlyMWS/";
+
+	private static String loginURL = "http://192.168.131.1/aryanz/FlyMWS/";
 	private static String registerURL = "http://192.168.131.1/aryanz/FlyMWS/";
 	private static String usersDetailsURL = "http://192.168.131.1/FlyMWS/users.php";
-	private static String friendsURL = "http://192.168.131.1/FlyMWS/friends.php";*/
+	private static String friendsURL = "http://192.168.131.1/FlyMWS/friends.php";
 	
 	private static String login_tag = "login";
 	private static String register_tag = "register";
